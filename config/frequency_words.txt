@@ -3,6 +3,8 @@ ai
 AIGC
 AI生图
 AI生视频
+!air
+!gai
 
 即梦
 豆包
