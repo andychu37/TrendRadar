@@ -1,19 +1,14 @@
 ai
-!gai
 人工智能
 AIGC
-aigc
 AI生图
-ai生图
 AI生视频
-ai生视频
 
 即梦
 豆包
 可灵
 vidu
 AI漫剧
-ai漫剧
 
 chatgpt
 openai
@@ -22,9 +17,13 @@ sora
 claude
 Anthropic
 
+谷歌
+google
+gemini
+deepmind
+
 字节
 bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -35,14 +34,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
 iphone
 ipad
 mac
